@@ -1,0 +1,6 @@
+# ssb-generate
+
+
+## License
+
+MIT
