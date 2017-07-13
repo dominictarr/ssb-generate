@@ -57,7 +57,7 @@ exports.messages = function (createMsg, peers, n, cb) {
           cb(null, msg)
         }
       )
-    }),
+    }, 32),
     pull.drain(null, cb)
   )
 
