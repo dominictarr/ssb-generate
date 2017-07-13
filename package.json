@@ -8,7 +8,8 @@
     "url": "git://github.com/dominictarr/ssb-generate.git"
   },
   "dependencies": {
-    "pull-paramap": "^1.2.2"
+    "pull-paramap": "^1.2.2",
+    "pull-stream": "^3.6.0"
   },
   "devDependencies": {},
   "scripts": {
